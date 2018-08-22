@@ -4,7 +4,7 @@
 ![css icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/css.svg)
 
 # Youtube-clone app
-> This app is deployed and it can be visit [here](https://youtube-clone-zf.herokuapp.com/)
+> This app is deployed and it can be visited [here](https://youtube-clone-zf.herokuapp.com/)
 
 ### Getting Started
 Checkout this repo, install dependencies, then start the gulp process with the following:
