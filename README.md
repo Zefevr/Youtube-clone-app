@@ -14,8 +14,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-After that, you can get an API key for youtube and put it in [src/index.js](https://github.com/Zefevr/Youtube-clone-app/blob/master/src/app.js)
+After that, you can get an API key for youtube and put it in [src/app.js](https://github.com/Zefevr/Youtube-clone-app/blob/master/src/app.js)
 
-[here](https://www.slickremix.com/docs/get-api-key-for-youtube/) It explains how to get a youtube-API-Key
+And [here](https://www.slickremix.com/docs/get-api-key-for-youtube/) it explains how to get a youtube-API-Key
 
 
